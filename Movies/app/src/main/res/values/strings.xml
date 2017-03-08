@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="Sort_by">Sort by</string>
+    <string name="pref_sort_key">Sort by</string>
+    <string name="sort_pref_default">Popular</string>
+    <string name="pref_sort_Popular">Popular</string>
+    <string name="pref_sort_Top_rated">Top rated</string>
+    <string name="pref_sort_label_Popular">Popular</string>
+    <string name="pref_sort_label_favorite">Favorites</string>
+    <string name="pref_sort_label_Top_rated">Top rated</string>
+    <string name="pref_sort_favorite">Favorites</string>
+
+</resources>
